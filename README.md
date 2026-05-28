@@ -1,4 +1,4 @@
-<h1 align="center">Akash Kore</h1>
+<h1 align="center">Akash Arvind Kore</h1>
 <p align="center"><b>AI Software Engineer • Agentic AI • Production ML Systems</b></p>
 <p align="center">Building practical LLM systems with measurable impact.</p>
 
