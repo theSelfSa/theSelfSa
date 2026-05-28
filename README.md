@@ -36,6 +36,7 @@
   <img alt="Celery" src="https://img.shields.io/badge/Celery-37814A?style=flat-square">
   <img alt="pgvector" src="https://img.shields.io/badge/pgvector-Vector%20Search-0ea5e9?style=flat-square">
 </p>
+
 **Cloud, MLOps & Frontend**  
 <p>
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
