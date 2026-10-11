@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/akashkore"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:aakashkore@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-aakashkore%40gmail.com-d14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://github.com/theSelfSa/akash-portfolio"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://www.akashkore.com/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=vercel&logoColor=white"></a>
 </p>
 
 <p align="center">
